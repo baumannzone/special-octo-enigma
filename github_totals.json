@@ -1,0 +1,20 @@
+{
+    "public_repos": 108,
+    "stars": 505,
+    "watchers": 505,
+    "has_issues": 104,
+    "forks": 218,
+    "open_issues_count": 310,
+    "langs": [
+        "JavaScript",
+        "Gherkin",
+        null,
+        "Shell",
+        "HTML",
+        "CSS",
+        "TypeScript",
+        "Swift",
+        "SCSS",
+        "C#"
+    ]
+}
