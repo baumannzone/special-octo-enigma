@@ -1,0 +1,188 @@
+[
+  {
+    "rascal": 412845
+  },
+  {
+    "stashback": 371624
+  },
+  {
+    "@guidesmiths/generator-react-component": 248156
+  },
+  {
+    "marv": 39744
+  },
+  {
+    "make-manifest": 23738
+  },
+  {
+    "marv-pg-driver": 19238
+  },
+  {
+    "confabulous": 19116
+  },
+  {
+    "systemic": 19098
+  },
+  {
+    "prepper": 17592
+  },
+  {
+    "systemic-express": 17361
+  },
+  {
+    "systemic-domain-runner": 17310
+  },
+  {
+    "systemic-service-runner": 17283
+  },
+  {
+    "whoosh": 12199
+  },
+  {
+    "swagger-endpoint-validator": 8431
+  },
+  {
+    "systemic-azure-bus": 6870
+  },
+  {
+    "error-handler-module": 6853
+  },
+  {
+    "marv-mysql-driver": 6729
+  },
+  {
+    "eslint-config-imperative-es6": 5489
+  },
+  {
+    "handy-postgres": 5237
+  },
+  {
+    "outstanding": 4788
+  },
+  {
+    "eslint-config-imperative": 2025
+  },
+  {
+    "eslint-plugin-imperative": 1829
+  },
+  {
+    "adblock-plus-crx": 1465
+  },
+  {
+    "world-clock": 1197
+  },
+  {
+    "systemic-redis": 1163
+  },
+  {
+    "systemic-mongodb": 1091
+  },
+  {
+    "acdc": 972
+  },
+  {
+    "httq": 907
+  },
+  {
+    "systemic-pg": 600
+  },
+  {
+    "systemic-slack": 595
+  },
+  {
+    "qsftp": 574
+  },
+  {
+    "generator-systemic": 520
+  },
+  {
+    "marv-compliance-tests": 489
+  },
+  {
+    "starscream": 469
+  },
+  {
+    "block-sequence": 435
+  },
+  {
+    "hath-assert": 363
+  },
+  {
+    "groundhog-day": 353
+  },
+  {
+    "block-sequence-compliance-tests": 336
+  },
+  {
+    "mr.robot": 290
+  },
+  {
+    "prerelease-ftw": 272
+  },
+  {
+    "block-sequence-mongo": 270
+  },
+  {
+    "release-clerk": 264
+  },
+  {
+    "request-token": 261
+  },
+  {
+    "block-sequence-mysql": 241
+  },
+  {
+    "qs3": 231
+  },
+  {
+    "node-madgex": 229
+  },
+  {
+    "block-sequence-reference": 210
+  },
+  {
+    "confabulous-vault-loader": 208
+  },
+  {
+    "block-sequence-redis": 195
+  },
+  {
+    "worksmith_sftp": 174
+  },
+  {
+    "worksmith_rascal": 173
+  },
+  {
+    "worksmith_etcd": 165
+  },
+  {
+    "kube-deploy": 156
+  },
+  {
+    "systemic-mongodb-memory-server": 137
+  },
+  {
+    "block-sequence-postgres": 125
+  },
+  {
+    "systemic-github-api": 107
+  },
+  {
+    "confabulous-http-loader": 99
+  },
+  {
+    "refdata": 87
+  },
+  {
+    "guidesmiths-microservice-example": 87
+  },
+  {
+    "confabulous-s3-loader": 87
+  },
+  {
+    "confabulous-postgres-loader": 84
+  },
+  {
+    "confabulous-etcd-loader": 75
+  }
+]
